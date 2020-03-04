@@ -1,2 +1,4 @@
 # Osmdroid-POC
- een POC voor de library osmdroid
+![Image of Emulator](https://github.com/gitHub-Randy/Osmdroid-POC/blob/master/Capture.PNG)
+
+## een POC voor de library osmdroid
